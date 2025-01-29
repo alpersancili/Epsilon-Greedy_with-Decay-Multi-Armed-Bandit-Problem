@@ -39,7 +39,7 @@ Final Cumulative Reward: The cumulative reward after all plays in the simulation
 Average Regret: The regret is calculated as the difference between the optimal cumulative reward (always pulling the best arm) and the agent's cumulative reward.
 Difference Between True and Estimated Values: A comparison of the true reward probabilities and the agent’s estimated values for each arm.
 
-VISUALIZATION
+VISUALIZATIONS
 
 Cumulative Reward Plot: A graph showing the average cumulative reward over time. It demonstrates how the agent’s total reward evolves as it learns.
 Regret Plot: A graph showing the regret over time, which highlights how well the agent is converging toward the optimal policy.
