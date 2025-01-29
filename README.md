@@ -1,0 +1,2 @@
+# Epsilon-Greedy_with-Decay-Multi-Armed-Bandit-Problem
+This project implements the Epsilon-Greedy algorithm with decaying epsilon to solve the Multi-Armed Bandit problem. The goal of this algorithm is to balance exploration and exploitation (leveraging arms. By using an epsilon decay, the exploration rate decreases over time, allowing the agent to focus more on exploitation as it gains experience.
